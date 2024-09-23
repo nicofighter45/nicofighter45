@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicofighter45
 - 👀 I’m interested in Aeonautics Enginering
-- 🌱 I’m currently learning Java for a while now, and python
-- 💞️ I’m looking to collaborate on minecraft projects
+- 🌱 I’m currently studying Maths and Physics for my Engineer's degree
+- 💞️ I’m looking to collaborate on Artificial Inteligence projects
 - 📫 How to reach me : using my discord : nicofighter45#8496
 
 <!---
